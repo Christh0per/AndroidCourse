@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba3</string>
+    <string name="app_saludo">Bienvenido</string>
+    <string name="app_button_ingresar">Ingresar</string>
+    <string name="app_crear_cuenta">Crear una nueva Cuenta</string>
+    <string name="app_registrar">Registrar</string>
+</resources>
